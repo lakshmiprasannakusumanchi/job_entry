@@ -1,3 +1,2 @@
 # job_entry
-A job portal Where we can Find jobs for both Educated and Uneducated people and has a flexibility to post jobs.
-Also it has a special feature:serves user friendly interface with language flexibilty
+A job portal catering to both educated and uneducated individuals, providing the flexibility to browse and post jobs. Additionally, it offers a user-friendly interface with language options to enhance accessibility.
